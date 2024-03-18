@@ -8,7 +8,7 @@ learning advanced techniques in machine learning and natural language processing
 
 ⚡ Fun fact: I'm passionate about photography and love capturing moments that tell a story through my lens
 
-📫 How to reach me: You can reach me via email at vikram@example.com or connect with me on LinkedIn at linkedin.com/in/vikram (https://www.linkedin.com/in/vikram-v-887288276/).
+📫 How to reach me: You can reach me via email at vikravoodugu@gmail.com or connect with me on LinkedIn at linkedin.com/in/vikram (https://www.linkedin.com/in/vikram-v-887288276/).
 
 😄 Pronouns: He/him.
 <!---
