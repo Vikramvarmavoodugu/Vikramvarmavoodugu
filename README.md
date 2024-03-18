@@ -1,4 +1,4 @@
-👋 Hi, I’m @Vikramvarmavoodugu
+👋 Hi, I’m Vikram
 👀 I'm interested in leveraging data to uncover meaningful insights and drive impactful solutions across various domains.
 
 🌱I'm currently working as a Data Scientist/Data Engineer at Radid Technologies, where I'm involved in various projects leveraging advanced machine learning and natural language processing techniques.
